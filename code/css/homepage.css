@@ -1,0 +1,39 @@
+ul li {
+    list-style: none;
+    display: ;
+}
+
+ul li a {
+    text-decoration: none;
+    font-family: futura;
+    color: brown;
+    margin-left: 50px;
+}
+
+
+.background {
+    background-color: goldenrod;
+}
+
+
+.name {
+    font-family: futura;
+    color: darkgoldenrod;
+    font-size: 70px;
+    
+}
+
+.digital_media {
+    font-size: 20px;
+    font-family: futura;
+    color: brown;
+    background-color: skyblue;
+    float: left;
+    margin-top: -50px;
+}
+
+.heading {
+    background-color: skyblue;
+    float: left;
+    margin-top: -50px;
+}
